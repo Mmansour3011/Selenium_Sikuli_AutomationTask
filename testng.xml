@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/Mansssss/Desktop/AutomationProjects/Selenium_Sikuli_AutomationTask/src/test/java/Base/AutomationTest.java">
+        <classes>
+            <class name="Base.AutomationTest">
+                <methods>
+                    <include name="excelSheetEditTest"
+
+                    <include name="emailSendingTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
